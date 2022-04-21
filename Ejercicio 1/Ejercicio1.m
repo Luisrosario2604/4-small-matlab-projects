@@ -3,6 +3,10 @@
 %%% Ejercicio 1
 %%%% Portar a Matlab el Ejercicio 3 de la Hoja de Problemas de python+opencv: análisis del rendimiento de un algoritmo de reconstrucción 3D.
 
+%% Si hay que hacer un clear o close
+clear all;
+close all;
+
 %% Leer dato
 g_data = readtable('./datasets/groundtruth.csv');
 d_data = readtable('./datasets/detection.csv');
