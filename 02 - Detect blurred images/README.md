@@ -36,7 +36,7 @@ Functions :
 </p>
 
 <p align="center">
-  <img src="./imgs/result.png">
+  <img src="./imgs/result1.png">
 </p>
 <p align="center">
   <i>Result of a blurred image</i>
